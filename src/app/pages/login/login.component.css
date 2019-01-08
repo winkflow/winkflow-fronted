@@ -1,0 +1,25 @@
+
+.login-form {
+  max-width: 300px;
+}
+
+.login-form-forgot {
+  float: right;
+}
+
+.login-form-button {
+  width: 100%;
+}
+
+.container {
+  display: flex;
+  width: 368px;
+  margin: 10% auto;
+  flex-direction: column;
+  min-height: 100%;
+  background: #f0f2f5;
+  background: url(https://gw.alipayobjects.com/zos/rmsportal/TVYTbAXWheQpRcWDaDMu.svg) no-repeat center 110px;
+  background-position-x: center;
+  background-position-y: 110px;
+  background-size: 100%;
+}
